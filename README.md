@@ -1,1 +1,1 @@
-# html_css_-jonas_review-25.08.2024-
+- study up to section 5 HTML-CSS course -> your very first web page
